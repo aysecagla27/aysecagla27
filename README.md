@@ -1,4 +1,3 @@
-# aysecaglacan
 # Hi, I'm Ayşe Çağla Can 
 
  Master's Student in Computer Engineering  
